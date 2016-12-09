@@ -1,0 +1,28 @@
+img {
+
+    position: fixed;
+    width: 100%;
+}
+body {
+    margin: 0;
+}
+
+.container {
+    position: absolute;
+    top	: 5px;
+    left: 10 % ;
+    width: 100%;
+
+}
+.content {
+
+    color			: white;
+    font			: bold 17px/45px Helvetica, Sans-Serif;
+    letter-spacing	: 1px;
+    background		: rgb(0, 0, 0);
+    background		: rgba(0, 0, 0, 0.3);
+    padding			: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
