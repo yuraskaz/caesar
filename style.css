@@ -17,12 +17,23 @@ body {
 .content {
 
     color			: white;
-    font			: bold 17px/45px Helvetica, Sans-Serif;
+    font			:  25px/45px , Sans-Serif;
     letter-spacing	: 1px;
     background		: rgb(0, 0, 0);
-    background		: rgba(0, 0, 0, 0.3);
-    padding			: 1px;
-    margin-left: 50px;
-    margin-right: 50px;
+    background		: rgba(0, 0, 0, 0.5);
+    padding			: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
 
+}
+.text  {
+    text-decoration: underline;
+    font-size: large;
+
+}
+h3 {
+    text-align : center;
+}
+ol {
+    margin-left: 50px;
 }
